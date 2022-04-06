@@ -1,0 +1,32 @@
+h1,h2,body,div,#cont1, button {
+    margin:0 auto;
+    text-align: center;
+    padding: auto;
+    ;
+}
+
+h2 {
+    
+    word-spacing:25px;
+}
+
+#demo, #demo2 {
+    margin: 0 auto;
+    padding: auto;
+    display:block;
+    padding-top: 25px;
+    padding-bottom: 5px;
+}
+
+
+#cont1, #cont2 {
+    padding-bottom: 130px;
+    width: 50%;
+}
+
+body {
+    padding-top: 35px;
+    
+
+}
+
